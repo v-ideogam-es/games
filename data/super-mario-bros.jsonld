@@ -4,7 +4,7 @@
     "name": "Super Mario Bros.",
     "contentRating": "ESRB (Entertainment Software Rating Board): E — Everyone",
     "image": "https://en.wikipedia.org/wiki/Super_Mario_Bros.#/media/File:Super_Mario_Bros._box.png",
-    "author":{
+    "author": {
         "@type": "Organization",
         "name": "Nintendo EAD"
     },

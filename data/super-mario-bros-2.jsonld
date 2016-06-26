@@ -4,7 +4,7 @@
     "name": "Super Mario Bros. 2",
     "contentRating": "ESRB (Entertainment Software Rating Board): E — Everyone",
     "image": "https://en.wikipedia.org/wiki/Super_Mario_Bros._2#/media/File:Super_Mario_Bros_2.jpg",
-    "author":{
+    "author": {
         "@type": "Organization",
         "name": "Nintendo EAD"
     },
