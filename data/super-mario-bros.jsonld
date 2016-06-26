@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Super Mario Bros.",
+    "contentRating": "ESRB (Entertainment Software Rating Board): E — Everyone",
+    "image": "https://en.wikipedia.org/wiki/Super_Mario_Bros.#/media/File:Super_Mario_Bros._box.png",
+    "author":{
+        "@type": "Organization",
+        "name": "Nintendo EAD"
+    },
+    "publisher": "Nintendo",
+    "genre": "Platformer",
+    "gamePlatform": "Nintendo Entertainment System",
+    "sameAs": "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+}
