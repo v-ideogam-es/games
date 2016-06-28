@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Sonic the Hedgehog 3",
+    "contentRating": "VRC (Videogame Rating Council): GA — General Audiences",
+    "image": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3#/media/File:Sonic3-box-us-225.jpg",
+    "author": {
+        "@type": "Organization",
+        "name": "Sonic Team"
+    },
+    "publisher": "Sega",
+    "genre": "Platformer",
+    "gamePlatform": "Sega Genesis",
+    "sameAs": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3"
+}

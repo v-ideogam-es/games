@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Sonic the Hedgehog 2",
+    "image": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2#/media/File:Sonic2_European_Box.jpg",
+    "author": {
+        "@type": "Organization",
+        "name": "Sonic Team"
+    },
+    "publisher": "Sega",
+    "genre": "Platformer",
+    "gamePlatform": "Sega Genesis",
+    "sameAs": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2"
+}
