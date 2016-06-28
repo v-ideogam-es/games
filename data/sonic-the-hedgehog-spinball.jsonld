@@ -1,0 +1,28 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Sonic the Hedgehog Spinball",
+    "contentRating": "VRC (Videogame Rating Council): GA — General Audiences",
+    "image": [
+        "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball#/media/File:Sonic_Spinball_Box.jpeg",
+        "http://static.giantbomb.com/uploads/original/9/93770/2374508-genesis_sonicspinball.jpg"
+    ],
+    "author": {
+        "@type": "Organization",
+        "name": "Sega Technical Institute"
+    },
+    "publisher": "Sega",
+    "genre": [
+        "Pinball",
+        "Platformer"
+    ],
+    "gamePlatform": "Sega Genesis",
+    "playMode": [
+        "SinglePlayer",
+        "MultiPlayer"
+    ],
+    "sameAs": [
+        "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_Spinball",
+        "http://www.giantbomb.com/sonic-the-hedgehog-spinball/3030-18592/"
+    ]
+}
