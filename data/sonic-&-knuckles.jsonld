@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Sonic & Knuckles",
+    "contentRating": "VRC (Videogame Rating Council): GA — General Audiences",
+    "image": "https://en.wikipedia.org/wiki/Sonic_%26_Knuckles#/media/File:Sonic_%26_Knuckles_cover.jpg",
+    "author": {
+        "@type": "Organization",
+        "name": "Sonic Team"
+    },
+    "publisher": "Sega",
+    "genre": "Platformer",
+    "gamePlatform": "Sega Genesis",
+    "sameAs": "https://en.wikipedia.org/wiki/Sonic_%26_Knuckles"
+}
