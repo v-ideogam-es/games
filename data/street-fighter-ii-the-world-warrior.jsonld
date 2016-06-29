@@ -1,0 +1,30 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Street Fighter II: The World Warrior",
+    "alternateName": [
+        "Street Fighter II",
+        "SFII",
+        "SF2"
+    ],
+    "image": [
+        "https://en.wikipedia.org/wiki/Street_Fighter_II%3A_The_World_Warrior#/media/File:SF2_JPN_flyer.jpg",
+        "http://www.giantbomb.com/images/1300-2364793"
+    ],
+    "inLanguage": "en-US",
+    "author": {
+        "@type": "Organization",
+        "name": "Capcom"
+    },
+    "publisher": "Capcom",
+    "genre": "Fighting",
+    "gamePlatform": "Super Nintendo Entertainment System",
+    "playMode": [
+        "SinglePlayer",
+        "MultiPlayer"
+    ],
+    "sameAs": [
+        "https://en.wikipedia.org/wiki/Street_Fighter_II%3A_The_World_Warrior",
+        "http://www.giantbomb.com/street-fighter-ii-the-world-warrior/3030-243/"
+    ]
+}

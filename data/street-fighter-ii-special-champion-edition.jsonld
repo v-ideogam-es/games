@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Street Fighter II: Special Champion Edition",
+    "contentRating": "VRC (Videogame Rating Council): MA-13 — Mature Audiences",
+    "image": [
+        "https://en.wikipedia.org/wiki/Street_Fighter_II%E2%80%B2:_Champion_Edition#/media/File:Street_Fighter_II_Dash_(flyer).png",
+        "http://www.giantbomb.com/images/1300-2374558"
+    ],
+    "inLanguage": "en-US",
+    "author": {
+        "@type": "Organization",
+        "name": "Capcom"
+    },
+    "publisher": "Capcom",
+    "genre": "Fighting",
+    "gamePlatform": "Sega Genesis",
+    "playMode": [
+        "SinglePlayer",
+        "MultiPlayer"
+    ],
+    "sameAs": [
+        "https://en.wikipedia.org/wiki/Street_Fighter_II%E2%80%B2:_Champion_Edition",
+        "http://www.giantbomb.com/street-fighter-ii-champion-edition/3030-1096/"
+    ]
+}
