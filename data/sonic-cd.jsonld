@@ -4,6 +4,7 @@
     "name": "Sonic CD",
     "contentRating": "VRC (Videogame Rating Council): GA — General Audiences",
     "image": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_CD#/media/File:Sonic_CD_256px.jpg",
+    "inLanguage": "en-US",
     "author": {
         "@type": "Organization",
         "name": "Sonic Team"

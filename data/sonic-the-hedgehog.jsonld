@@ -4,6 +4,7 @@
     "name": "Sonic the Hedgehog",
     "contentRating": "VRC (Videogame Rating Council): KA — Kids to Adults",
     "image": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)#/media/File:Sonic_the_Hedgehog_1_Genesis_box_art.jpg",
+    "inLanguage": "en-US",
     "author": {
         "@type": "Organization",
         "name": "Sonic Team"
