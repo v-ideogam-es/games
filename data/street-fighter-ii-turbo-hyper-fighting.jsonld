@@ -1,0 +1,24 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Street Fighter II Turbo: Hyper Fighting",
+    "alternateName": [
+        "Street Fighter II Turbo",
+        "SFII Turbo",
+        "SF2 Turbo"
+    ],
+    "image": "https://en.wikipedia.org/wiki/File:Street_Fighter_II_Dash_Turbo_(flyer).PNG",
+    "inLanguage": "en-US",
+    "author": {
+        "@type": "Organization",
+        "name": "Capcom"
+    },
+    "publisher": "Capcom",
+    "genre": "Fighting",
+    "gamePlatform": "Super Nintendo Entertainment System",
+    "playMode": [
+        "SinglePlayer",
+        "MultiPlayer"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Street_Fighter_II%E2%80%B2_Turbo:_Hyper_Fighting"
+}
