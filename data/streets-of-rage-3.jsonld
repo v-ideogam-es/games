@@ -1,0 +1,20 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "name": "Streets of Rage 3",
+    "contentRating": "VRC (Videogame Rating Council): MA-13 — Mature Audiences",
+    "image": "https://en.wikipedia.org/wiki/Streets_of_Rage_3#/media/File:Streets_of_Rage_3_(box_art).jpg",
+    "inLanguage": "en-US",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega"
+    },
+    "publisher": "Sega",
+    "genre": "Beat 'em up",
+    "gamePlatform": "Sega Genesis",
+    "playMode": [
+        "SinglePlayer",
+        "MultiPlayer"
+    ],
+    "sameAs": "https://en.wikipedia.org/wiki/Streets_of_Rage_3"
+}
