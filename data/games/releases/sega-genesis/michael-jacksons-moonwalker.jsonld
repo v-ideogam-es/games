@@ -1,0 +1,9 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "Michael Jackson's Moonwalker",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2536351"
+}

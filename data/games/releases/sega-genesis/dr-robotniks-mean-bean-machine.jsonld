@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sonic Team"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Puzzle",
+    "inLanguage": "en-US",
+    "name": "Dr. Robotnik's Mean Bean Machine",
+    "playMode": [
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2362073"
+}

@@ -1,0 +1,9 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "Ecco: The Tides of Time",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q1967427"
+}

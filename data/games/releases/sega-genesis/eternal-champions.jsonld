@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "Eternal Champions",
+    "playMode": [
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3059230"
+}

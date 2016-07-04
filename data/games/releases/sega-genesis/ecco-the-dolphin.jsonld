@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Appaloosa Interactive"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "Ecco the Dolphin",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q1971610"
+}

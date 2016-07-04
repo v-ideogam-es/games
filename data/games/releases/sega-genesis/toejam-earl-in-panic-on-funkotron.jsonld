@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "ToeJam & Earl Productions"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "ToeJam & Earl in Panic on Funkotron",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3530319"
+}
