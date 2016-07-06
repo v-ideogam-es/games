@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega"
+    },
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "Super Thunder Blade",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q16259348"
+}

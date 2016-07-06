@@ -1,0 +1,9 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "DecapAttack",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3020979"
+}

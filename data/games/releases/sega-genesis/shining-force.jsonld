@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Climax Entertainment"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Tactical role-playing",
+    "inLanguage": "en-US",
+    "name": "Shining Force",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q1929072"
+}

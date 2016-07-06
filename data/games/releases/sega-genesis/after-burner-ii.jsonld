@@ -1,0 +1,13 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega AM2"
+    },
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "After Burner II",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2628630"
+}
