@@ -2,6 +2,7 @@
     "@context": "http://schema.org",
     "@type": "VideoGame",
     "gamePlatform": "Sega Genesis",
+    "genre": "Fighting",
     "inLanguage": "en-US",
     "name": "Eternal Champions",
     "playMode": [
