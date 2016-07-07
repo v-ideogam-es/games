@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Climax Entertainment"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Role-playing",
+    "inLanguage": "en-US",
+    "name": "Shining in the Darkness",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2628345"
+}
