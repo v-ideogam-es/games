@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Malibu Interactive"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "Batman Returns",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q979831"
+}

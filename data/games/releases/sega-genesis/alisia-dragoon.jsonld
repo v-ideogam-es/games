@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Game Arts"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "Alisia Dragoon",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2342898"
+}

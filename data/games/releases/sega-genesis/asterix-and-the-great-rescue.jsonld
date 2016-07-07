@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Core Design"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "Asterix and the Great Rescue",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2442543"
+}

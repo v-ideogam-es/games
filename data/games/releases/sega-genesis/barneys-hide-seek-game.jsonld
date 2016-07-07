@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Realtime Associates"
+    },
+    "gamePlatform": "Sega Genesis",
+    "inLanguage": "en-US",
+    "name": "Barney's Hide & Seek Game",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2884690"
+}
