@@ -1,0 +1,14 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "BlueSky Software"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Sports",
+    "inLanguage": "en-US",
+    "name": "World Series Baseball",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3570006"
+}
