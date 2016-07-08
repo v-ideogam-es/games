@@ -1,0 +1,16 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega Technical Institute"
+    },
+    "contentRating": "ESRB: E",
+    "gamePlatform": "Sega Genesis",
+    "genre": "Beat 'em up",
+    "inLanguage": "en-US",
+    "name": "Comix Zone",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q1114985"
+}

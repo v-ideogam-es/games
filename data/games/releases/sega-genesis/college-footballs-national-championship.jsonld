@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "BlueSky Software"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Sports",
+    "inLanguage": "en-US",
+    "name": "College Football's National Championship",
+    "playMode": [
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q2982967"
+}
