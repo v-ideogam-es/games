@@ -1,0 +1,19 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Novotrade"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Beat 'em up",
+    "inLanguage": "en-US",
+    "name": "Cyborg Justice",
+    "playMode": [
+        "CoOp",
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3008217"
+}
