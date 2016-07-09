@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Action",
+    "inLanguage": "en-US",
+    "name": "Flicky",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q593781"
+}

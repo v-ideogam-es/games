@@ -1,0 +1,15 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Role-playing",
+    "inLanguage": "en-US",
+    "name": "Fatal Labyrinth",
+    "playMode": "SinglePlayer",
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3067167"
+}
