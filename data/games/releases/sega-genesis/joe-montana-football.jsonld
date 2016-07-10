@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Electronic Arts"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Sports",
+    "inLanguage": "en-US",
+    "name": "Joe Montana Football",
+    "playMode": [
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3180136"
+}
