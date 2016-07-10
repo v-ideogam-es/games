@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Acme Interactive"
+    },
+    "gamePlatform": "Sega Genesis",
+    "genre": "Sports",
+    "inLanguage": "en-US",
+    "name": "Greatest Heavyweights",
+    "playMode": [
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": "Sega",
+    "sameAs": "http://www.wikidata.org/entity/Q3116002"
+}
