@@ -5,22 +5,21 @@
         "@type": "Organization",
         "name": "Clockwork Tortoise"
     },
+    "contentRating": "VRC (Videogame Rating Council): K-A — Kids to Adults",
     "gamePlatform": "Sega Genesis",
     "genre": "Action",
     "inLanguage": "en-US",
     "name": "The Adventures of Batman & Robin",
     "playMode": [
+        "CoOp",
         "MultiPlayer",
         "SinglePlayer"
     ],
     "publisher": {
         "@type": "Organization",
         "name": "Sega",
-        "sameAs": "https://en.wikipedia.org/wiki/Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
         "url": "http://www.sega.com",
     },
-    "sameAs": [
-        "https://www.wikidata.org/wiki/Q890852",
-        "https://en.wikipedia.org/wiki/The_Adventures_of_Batman_%26_Robin_(video_game)"
-    ]
+    "sameAs": "https://www.wikidata.org/wiki/Q890852"
 }
