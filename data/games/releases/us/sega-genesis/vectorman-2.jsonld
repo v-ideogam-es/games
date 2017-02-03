@@ -1,0 +1,25 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "BlueSky Software"
+    },
+    "contentRating": "VRC (Videogame Rating Council): K-A — Kids to Adults",
+    "gamePlatform": "Sega Genesis",
+    "genre": [
+        "Action",
+        "Platformer"
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Vectorman2.jpg",
+    "inLanguage": "en-US",
+    "name": "Vectorman 2",
+    "playMode": "SinglePlayer",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
+    "sameAs": "https://www.wikidata.org/wiki/Q1837963"
+}
