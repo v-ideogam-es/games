@@ -5,9 +5,18 @@
         "@type": "Organization",
         "name": "Sega AM2"
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "inLanguage": "en-US",
     "name": "After Burner II",
-    "publisher": "Sega",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
     "sameAs": "http://www.wikidata.org/entity/Q2628630"
 }

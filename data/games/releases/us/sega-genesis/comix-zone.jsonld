@@ -6,7 +6,11 @@
         "name": "Sega Technical Institute"
     },
     "contentRating": "ESRB: E",
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Beat 'em up",
     "inLanguage": "en-US",
     "name": "Comix Zone",

@@ -5,7 +5,11 @@
         "@type": "Organization",
         "name": "SIMS Co., Ltd."
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Sports",
     "inLanguage": "en-US",
     "name": "ATP Tour Championship Tennis",
@@ -13,6 +17,11 @@
         "MultiPlayer",
         "SinglePlayer"
     ],
-    "publisher": "Sega",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
     "sameAs": "http://www.wikidata.org/entity/Q2819551"
 }

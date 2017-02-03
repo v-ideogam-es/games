@@ -1,7 +1,11 @@
 {
     "@context": "http://schema.org",
     "@type": "VideoGame",
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "inLanguage": "en-US",
     "name": "Ecco Jr.",
     "publisher": "Sega",

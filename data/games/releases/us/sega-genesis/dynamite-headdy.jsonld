@@ -5,7 +5,11 @@
         "@type": "Organization",
         "name": "Treasure"
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Platformer",
     "inLanguage": "en-US",
     "name": "Dynamite Headdy",

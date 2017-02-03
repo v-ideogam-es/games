@@ -5,7 +5,11 @@
         "@type": "Organization",
         "name": "Probe Software"
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "inLanguage": "en-US",
     "name": "Body Count",
     "publication": {

@@ -6,7 +6,11 @@
         "name": "BlueSky Software"
     },
     "contentRating": "ESRB: K-A",
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Action",
     "inLanguage": "en-US",
     "name": "Desert Demolition Starring Road Runner and Wile E. Coyote",

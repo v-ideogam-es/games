@@ -1,11 +1,20 @@
 {
     "@context": "http://schema.org",
     "@type": "VideoGame",
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Platformer",
     "inLanguage": "en-US",
     "name": "Alex Kidd in the Enchanted Castle",
     "playMode": "SinglePlayer",
-    "publisher": "Sega",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
     "sameAs": "http://www.wikidata.org/entity/Q2313010"
 }

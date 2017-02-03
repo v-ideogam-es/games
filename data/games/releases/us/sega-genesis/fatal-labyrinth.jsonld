@@ -5,7 +5,11 @@
         "@type": "Organization",
         "name": "Sega"
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Role-playing",
     "inLanguage": "en-US",
     "name": "Fatal Labyrinth",

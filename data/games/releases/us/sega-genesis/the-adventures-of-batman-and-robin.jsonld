@@ -6,7 +6,11 @@
         "name": "Clockwork Tortoise"
     },
     "contentRating": "VRC (Videogame Rating Council): K-A — Kids to Adults",
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Action",
     "inLanguage": "en-US",
     "name": "The Adventures of Batman & Robin",

@@ -5,7 +5,11 @@
         "@type": "Organization",
         "name": "Interactive Designs"
     },
-    "gamePlatform": "Sega Genesis",
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
     "genre": "Platformer",
     "inLanguage": "en-US",
     "name": "Greendog: The Beached Surfer Dude!",
