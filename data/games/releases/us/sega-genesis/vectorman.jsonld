@@ -11,6 +11,7 @@
         "Action",
         "Platformer"
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/43/Vectorman_cover.jpg",
     "inLanguage": "en-US",
     "name": "Vectorman",
     "playMode": "SinglePlayer",
