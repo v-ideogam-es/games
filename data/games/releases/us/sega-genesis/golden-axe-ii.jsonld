@@ -1,0 +1,29 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega AM7"
+    },
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
+    "genre": "Beat 'em Up",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Golden_Axe_II_Coverart.png",
+    "inLanguage": "en-US",
+    "name": "Golden Axe II",
+    "playMode": [
+        "CoOp",
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
+    "sameAs": "https://www.wikidata.org/wiki/Q787462"
+}
