@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Electronic Arts",
+        "sameAs": "https://www.wikidata.org/wiki/Q173941",
+        "url": "https://www.ea.com"
+    },
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
+    "genre": "Simulator",
+    "inLanguage": "en-US",
+    "name": "688 Attack Sub",
+    "playMode": "SinglePlayer",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
+    "sameAs": "https://www.wikidata.org/wiki/Q257540"
+}
