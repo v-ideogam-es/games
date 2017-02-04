@@ -1,0 +1,28 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Sega AM1"
+    },
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
+    "genre": "Beat 'em Up",
+    "inLanguage": "en-US",
+    "name": "Golden Axe",
+    "playMode": [
+        "CoOp",
+        "MultiPlayer",
+        "SinglePlayer"
+    ],
+    "publisher": {
+        "@type": "Organization",
+        "name": "Sega",
+        "sameAs": "https://www.wikidata.org/wiki/Q122741",
+        "url": "http://www.sega.com",
+    },
+    "sameAs": "https://www.wikidata.org/wiki/Q1046574"
+}
