@@ -1,0 +1,27 @@
+{
+    "@context": "http://schema.org",
+    "@type": "VideoGame",
+    "author": {
+        "@type": "Organization",
+        "name": "Game Freak",
+        "sameAs": "https://www.wikidata.org/wiki/Q782028"
+    },
+    "gamePlatform": {
+        "@type": "Thing",
+        "name": "Sega Genesis",
+        "sameAs": "https://www.wikidata.org/wiki/Q10676"
+    },
+    "genre": "Platformer",
+    "inLanguage": "en-US",
+    "name": "Pulseman",
+    "playMode": "SinglePlayer",
+    "publication": {
+        "@type": "PublicationEvent",
+        "publishedOn": {
+            "@type": "BroadcastService",
+            "name": "Sega Channel"
+        }
+    },
+    "publisher": "Sega",
+    "sameAs": "https://www.wikidata.org/wiki/Q3107409"
+}
